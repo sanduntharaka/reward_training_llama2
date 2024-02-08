@@ -1,1 +1,1 @@
-# reward_training_llama2
+# Train reward model for Llama2 (RLHF)
